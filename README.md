@@ -1,2 +1,2 @@
-# lerangit
+# learngit
 learn git by liaoxuefeng
